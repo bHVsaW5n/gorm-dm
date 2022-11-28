@@ -1,4 +1,4 @@
-module github.com/bHVsaW5n/gorm-dm8
+module github.com/bHVsaW5n/gorm-dm
 
 go 1.17
 
